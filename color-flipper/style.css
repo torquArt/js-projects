@@ -1,0 +1,23 @@
+
+#verde{
+    background-color:green;
+}
+
+#vermelho{
+    background-color: red;
+}
+
+#azul{
+    background-color: blue;
+}
+
+button{
+    border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    margin: 5px;
+}
+
+body{
+    text-align: center;
+}
